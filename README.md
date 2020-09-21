@@ -8,7 +8,7 @@
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/React-Dashboard?style=social)](https://github.com/Daniel-Vinicius/React-Dashboard/stargazers)
 
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem.JPG" />  </h2>
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/React-Dashboard/blob/master/.github/Imagem.JPG" />  </h2>
 
 ### Features 
 - [x] Integração com ReactStrap
@@ -31,13 +31,13 @@ Tabela de conteúdos
  <!--te-->
 
 <h4>Resumo</h6>
-<img alt="Imagem do Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem.JPG"
+<img alt="Imagem do Projeto" src="https://github.com/Daniel-Vinicius/React-Dashboard/blob/master/.github/Imagem.JPG"
 <a id="Imagens"> </a>
 <h4>Consultas</h6>
-<img alt="Imagem 3 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem2.JPG"
+<img alt="Imagem 3 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/React-Dashboard/blob/master/.github/Imagem2.JPG"
 <a id="Imagen"> </a>
 <h4>Faturamento</h6>
-<img alt="Imagem 4 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/Spoilers/blob/master/.github/Imagem3.JPG" 
+<img alt="Imagem 4 do Projeto" title="#Projeto" src="https://github.com/Daniel-Vinicius/React-Dashboard/blob/master/.github/Imagem3.JPG" 
 
 
 ---
